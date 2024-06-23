@@ -1,1 +1,5 @@
-# setup_scripts
+## Make All Scripts Executable
+
+```bash
+chmod +x *.sh
+```
